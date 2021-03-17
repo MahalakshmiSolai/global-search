@@ -1,0 +1,49 @@
+.ant-card-bordered .ant-card-cover {
+    padding: 10px 0px;
+}
+
+.details-book__edition, .details-book__extra {
+    font-style: oblique;
+    color: #666;
+}
+
+h1.details-book__title {
+    font-family: Georgia,"Palatino Linotype","Book Antiqua",Palatino,serif;
+    margin: 10px 0 0;
+    color: #333;
+    font-size: 2em;
+}
+
+.ant-card-meta-description {
+    height: 10vh;
+    overflow: auto;
+}
+
+.details-section {
+    padding: 0 20px;
+}
+
+.details-book__extra {
+    position: absolute;
+    right: 8%;
+}
+
+.details .ant-card-body {
+    padding: 12px !important;
+}
+
+h2.edition-byline {
+    margin: 7px 2px 20px;
+    font-size: 1em;
+    font-weight: 400;
+    color: #333;
+}
+
+.subject-linkbox h6 {
+    color: #666;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    display: inline;
+    font-size: .8em;
+}
